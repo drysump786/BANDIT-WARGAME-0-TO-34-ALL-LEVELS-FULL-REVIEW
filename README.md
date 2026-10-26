@@ -8,11 +8,12 @@ Most online guides for Bandit only provide the passwords or one-liners without e
 
 *   `ALL_LEVELS_0-34` - Step-by-step documentation containing full terminal commands, concepts, and flags.
 
-* If you want a full walkthrough including basic help  regarding CLI with snapshots level by level , press on given link: [WAR STARTED](WAR%20STARTED.md)
+* If you want a full walkthrough including basic help  regarding CLI with snapshots level by level , press on given link(that is how we begin the game by the way): [WAR STARTED](WAR%20STARTED.md)
 
 * links to specific levels are given here:
 
   **LEVELS**           **LINKS:**
+  
   LVL 0-1-------[LVL 0-1](LVL%200-1.md)
   
   LVL 1-2-------[LVL 1-2](LVL%201-2.md)
